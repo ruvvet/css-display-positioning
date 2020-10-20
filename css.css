@@ -1,0 +1,20 @@
+.container {
+    border: 5px solid black;
+
+}
+
+.one {
+    display: block;
+}
+
+.two {
+    display: inline;
+}
+
+.three {
+    display: inline-block;
+}
+
+.four {
+    display:hidden;
+}
